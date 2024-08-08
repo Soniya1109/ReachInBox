@@ -61,7 +61,6 @@ Light and Dark Mode Toggle:
 
 5.**ShortCuts**
 <img width="699" alt="Screenshot 2024-08-08 144910" src="https://github.com/user-attachments/assets/f29a44ab-4303-4f21-a2dd-88e7ea6da578">
-
 <img width="492" alt="Screenshot 2024-08-08 145057" src="https://github.com/user-attachments/assets/d9041d4c-76d9-4a9f-916e-d515bf3c5858">
 
 
