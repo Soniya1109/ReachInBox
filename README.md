@@ -16,7 +16,7 @@ To install and run this project on your local machine, follow these steps:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/punyakrit/Reachinbox-Assignment.git
+   git clone https://github.com/Soniya1109/ReachInBox.git
 
    cd into project
 
@@ -24,5 +24,4 @@ To install and run this project on your local machine, follow these steps:
 
    run `npm run dev`
 
-   now open in browser 
-   http://localhost:5173/
+   
