@@ -43,18 +43,30 @@ Keyboard Shortcuts:
 Light and Dark Mode Toggle:
 "At the top, there's a toggle button to switch between light and dark modes, enhancing user customization."
 
-Conclusion:
-"That’s the app—seamless login with JWT security, intuitive email management, efficient shortcuts, and customizable themes."
-
 ---
 
 ## Interface Design
 
 1.**Login Page**
 <img width="960" alt="Screenshot 2024-08-08 144739" src="https://github.com/user-attachments/assets/88cd89b2-20b8-4207-b5a9-6d515f21b4f5">
+
+2.**OneBox Page**
 <img width="959" alt="Screenshot 2024-08-08 144803" src="https://github.com/user-attachments/assets/951ecaee-619b-44ce-9ce8-5657e3fa1b43">
+
+3.**Toggle Change**
 <img width="959" alt="Screenshot 2024-08-08 144822" src="https://github.com/user-attachments/assets/a15945c7-5222-4582-a2bb-deef1e9bb83a">
+
+4.**Fetching the Data**
 <img width="960" alt="Screenshot 2024-08-08 144845" src="https://github.com/user-attachments/assets/6ee9ff55-0e22-43e1-922e-4dbb4e278397">
+
+5.**Delete Page**
 <img width="699" alt="Screenshot 2024-08-08 144910" src="https://github.com/user-attachments/assets/f29a44ab-4303-4f21-a2dd-88e7ea6da578">
+
+6.**Reply Page**
 <img width="492" alt="Screenshot 2024-08-08 145057" src="https://github.com/user-attachments/assets/d9041d4c-76d9-4a9f-916e-d515bf3c5858">
-   
+
+
+---
+
+## Conclusion:
+"That’s the app—seamless login with JWT security, intuitive email management, efficient shortcuts, and customizable themes."
