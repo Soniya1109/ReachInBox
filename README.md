@@ -59,8 +59,10 @@ Light and Dark Mode Toggle:
 4.**Fetching the Data**
 <img width="960" alt="Screenshot 2024-08-08 144845" src="https://github.com/user-attachments/assets/6ee9ff55-0e22-43e1-922e-4dbb4e278397">
 
-5.**ShortCuts**
-<img width="699" alt="Screenshot 2024-08-08 144910" src="https://github.com/user-attachments/assets/f29a44ab-4303-4f21-a2dd-88e7ea6da578">
+5.**Delete Page**
+<img width="960" alt="Screenshot 2024-08-08 152208" src="https://github.com/user-attachments/assets/32612721-2929-421b-ba00-fbc6545dc66e">
+
+6.**Reply Page**
 <img width="492" alt="Screenshot 2024-08-08 145057" src="https://github.com/user-attachments/assets/d9041d4c-76d9-4a9f-916e-d515bf3c5858">
 
 
