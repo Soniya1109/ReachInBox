@@ -1,12 +1,10 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { useState, useEffect } from "react"; 
 import AppBar from "../components/AppBar";
 import google from "../assets/google.svg";
 import Footer from "../components/Footer";
 
 function Login() {
-  const Navigate = useNavigate();
-  const token = localStorage.getItem('token');
   const [showOptions, setShowOptions] = useState(false);
   const [hideBottomButton, setHideBottomButton] = useState(false);
   const [email, setEmail] = useState(""); 
